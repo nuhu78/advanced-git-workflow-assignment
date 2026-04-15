@@ -1,1 +1,5 @@
 Login feature v1
+Add login form UI
+Add email validation
+Add password validation
+Add remember me option
